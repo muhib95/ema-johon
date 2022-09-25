@@ -1,0 +1,19 @@
+.nav-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 80px;
+  background-color: black;
+  padding: 10px;
+}
+.nav-container img{
+  margin-left: 25px;
+}
+.nav-container a{
+  margin-right: 25px;
+  color: white;
+  text-decoration: none;
+}
+.nav-container a:hover{
+  color: blue;
+}
